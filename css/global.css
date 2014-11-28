@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+
+/* navigation */
+
+.nav-pills > li > a {
+	color: black;
+	background-color: white;
+	opacity: 0.4;
+}
+.nav-pills > li > a:hover, 
+.nav-pills > li > a:focus {
+	background-color: white;
+	opacity: 0.8;
+}
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
+	background-color: #477519;
+	opacity: 1;
+}
+
+/* body content */
+
+body {
+	margin: 3%;
+	background-image: url("../img/loewenzahn.jpg");
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-color: #7FA9D3;
+	color: black;
+	font-family: Times New Roman;
+}
+body section a {
+	color: #00005C;
+	text-decoration: underline;
+}
+body section a:hover,
+body section a:focus {
+	color: #00005C;
+}
+.liste ul li {
+	list-style-type: none;
+	width: 30%;
+	border-radius: 20px 20px 20px 20px;
+	background-color: white;
+	opacity: 0.6;
+	padding-left: 3%;
+}
+.liste li:hover,
+.liste li:focus {
+	opacity: 1.0;
+}
+.jumbotron {
+	background-color: transparent;
+}
+#video {
+	max-width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3%;
+}
+#karussell {
+	margin-top: 3%;
+}
+.carousel {
+	display: inline-block;
+	max-width: 60%;
+}
+.suche {
+	margin: auto;
+}
