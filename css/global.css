@@ -74,3 +74,8 @@ body section a:focus {
 	margin: 0 auto;
 	text-align: center;
 }
+#label {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}

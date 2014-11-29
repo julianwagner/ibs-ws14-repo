@@ -12,7 +12,7 @@
 		<div class="jumbotron">
 			<div class="text-center">
 				<h1>Wichtige Links auf einen Blick:</h1>
-				<h3>(Externe Links öffnen in einem neuen Tab)</h3>
+				<h2>(Externe Links öffnen in einem neuen Tab)</h2>
 			</div>
 			<div class="liste">
 				<ul>

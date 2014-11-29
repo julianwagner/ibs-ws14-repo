@@ -11,11 +11,13 @@
 	<section class="container">
 		<div class="jumbotron">
 			<h1 style="text-align: center;">Wikipedia</h1>
+			<div id="label" class="row">
+				<label for="search">Suchanfrage:</label>
+			</div>
 			<div id="form" class="row">
 				<form class="navbar-form" role="search" method="post"
 					action="http://de.wikipedia.org/wiki/Spezial:Suche">
 					<div class="form-group">
-					<label>Suchanfrage:</label>
 						<input type="text" class="form-control" id="search" name="search"
 							placeholder="Suchen">
 					</div>
