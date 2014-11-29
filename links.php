@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head lang="de">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/global.css">
 <meta charset="UTF-8">
@@ -12,13 +12,14 @@
 		<div class="jumbotron">
 			<div class="text-center">
 				<h1>Wichtige Links auf einen Blick:</h1>
+				<p>(Externe Links öffnen in einem neuen Tab)</p>
 			</div>
 			<div class="liste">
 				<ul>
-					<li><a href="https://github.com/rharzer/ibs-raphael-repo">GitHub
+					<li><a title="https://github.com/rharzer/ibs-ws14-repo" href="https://github.com/rharzer/ibs-ws14-repo" target="_blank">GitHub
 							Repository</a></li>
-					<li><a href="https://github.com/rharzer/ibs-raphael-repo">GitHub
-							Repository</a></li>
+					<li><a title="http://www.codecademy.com/rhar42" href="http://www.codecademy.com/rhar42" target="_blank">Codecademy Profil (Nur für Mitglieder sichtbar)</a></li>
+					<li><a href="wikipedia.php">Wikipedia Suchformular</a></li>
 				</ul>
 			</div>
 		</div>

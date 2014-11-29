@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head lang="de">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/bootstrap-theme.css">
 <link rel="stylesheet" href="css/global.css">
@@ -85,7 +85,7 @@
 			</div>
 		</div>
 	</section>
-	<script type="text/javascript" src="https://code.jquery.com/jquery.js"></script>
+	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/global.js"></script>
 </body>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head lang="de">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/global.css">
 <meta charset="UTF-8">

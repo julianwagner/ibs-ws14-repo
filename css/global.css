@@ -40,9 +40,11 @@ body section a:hover,
 body section a:focus {
 	color: #00005C;
 }
+.liste {
+	font-size: 1.2em;
+}
 .liste ul li {
-	list-style-type: none;
-	width: 30%;
+	width: 50%;
 	border-radius: 20px 20px 20px 20px;
 	background-color: white;
 	opacity: 0.6;
@@ -57,8 +59,7 @@ body section a:focus {
 }
 #video {
 	max-width: 60%;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
 	margin-bottom: 3%;
 }
 #karussell {
@@ -68,6 +69,8 @@ body section a:focus {
 	display: inline-block;
 	max-width: 60%;
 }
-.suche {
-	margin: auto;
+#form {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
 }
