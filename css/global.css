@@ -36,6 +36,11 @@ body section a {
 	color: #00005C;
 	text-decoration: underline;
 }
+#hauptseite a:hover,
+#hauptseite a:focus {
+	color: black;
+	background-color: #477519;
+}
 body section a:hover,
 body section a:focus {
 	color: #00005C;
@@ -74,7 +79,11 @@ body section a:focus {
 	margin: 0 auto;
 	text-align: center;
 }
-#label {
+#wcag {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+#wcag, #label {
 	width: 50%;
 	margin: 0 auto;
 	text-align: center;

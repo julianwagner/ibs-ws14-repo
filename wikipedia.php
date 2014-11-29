@@ -11,6 +11,12 @@
 	<section class="container">
 		<div class="jumbotron">
 			<h1 style="text-align: center;">Wikipedia</h1>
+			<div id="wcag" class="row">
+				<a
+					title="http://wave.webaim.org/report#/http://raphaelharzer.cloudcontrolled.com/wikipedia.php"
+					href="http://wave.webaim.org/report#/http://raphaelharzer.cloudcontrolled.com/wikipedia.php"><img
+					src="img/wcag2AAA.png" alt="WCAG 2.0 WAI-AAA Logo" /></a>
+			</div>
 			<div id="label" class="row">
 				<label for="search">Suchanfrage:</label>
 			</div>
