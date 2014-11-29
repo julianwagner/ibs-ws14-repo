@@ -21,7 +21,7 @@
 					<li><a title="https://github.com/rharzer/ibs-ws14-repo" href="https://github.com/rharzer/ibs-ws14-repo" target="_blank">GitHub
 							Repository</a></li>
 					<li><a title="https://github.com/rharzer/ibs-ws14-repo/pulls" href="https://github.com/rharzer/ibs-ws14-repo/pulls" target="_blank">Pull-Requests auf mein GitHub-Repo</a></li>
-					<li><a title="#" href="#">Pull-Request auf ein anderes GitHub-Repo</a></li>
+					<li><a title="https://github.com/julianwagner/ibs/pulls" href="https://github.com/julianwagner/ibs/pulls" target="_blank">Pull-Request auf ein anderes GitHub-Repo</a></li>
 				</ul>
 			</div>
 		</div>
