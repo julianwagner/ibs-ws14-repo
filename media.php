@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
-<head lang="de">
+<html lang="de">
+<head>
 <link rel="stylesheet" href="css/bootstrap.css">
-<link rel="stylesheet" href="css/bootstrap-theme.css">
 <link rel="stylesheet" href="css/global.css">
 <meta charset="UTF-8">
 <title>IBS WS14: Media</title>

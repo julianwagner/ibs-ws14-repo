@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head lang="de">
+<html lang="de">
+<head>
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/global.css">
 <meta charset="UTF-8">
@@ -12,7 +12,7 @@
 		<div class="jumbotron">
 			<div class="text-center">
 				<h1>Wichtige Links auf einen Blick:</h1>
-				<p>(Externe Links öffnen in einem neuen Tab)</p>
+				<h3>(Externe Links öffnen in einem neuen Tab)</h3>
 			</div>
 			<div class="liste">
 				<ul>

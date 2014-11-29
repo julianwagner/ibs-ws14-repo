@@ -15,8 +15,9 @@
 				<form class="navbar-form" role="search" method="post"
 					action="http://de.wikipedia.org/wiki/Spezial:Suche">
 					<div class="form-group">
+					<label>Suchanfrage:</label>
 						<input type="text" class="form-control" id="search" name="search"
-							placeholder="Wikipedia Suche">
+							placeholder="Suchen">
 					</div>
 					<input class="btn btn-default" type="submit" id="go" name="go"
 						value="Artikelsuche" /> <input class="btn btn-default"
